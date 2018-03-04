@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name Connectors_Audio)(type KiCad)(uri ${ATTIBEE}/Connectors_Audio.pretty)(options "")(descr "Audio connectors"))
-  (lib (name Switches_Stomp)(type KiCad)(uri ${ATTIBEE}/Switches_Stomp.pretty)(options "")(descr "Stomp switches"))
+  (lib (name Connectors_Audio)(type KiCad)(uri ${ATTIBEE}/footprints/Connectors_Audio.pretty)(options "")(descr "Audio connectors"))
+  (lib (name Switches_Stomp)(type KiCad)(uri ${ATTIBEE}/footprints/Switches_Stomp.pretty)(options "")(descr "Stomp switches"))
 )
